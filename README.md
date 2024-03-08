@@ -2,11 +2,19 @@
 ---  
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minizxip)](https://solved.ac/minixzip/)
-&emsp;&emsp;&emsp;&emsp; 
-[![Codeforces Profile](http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm)](http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm)
+<p align="center">
+  <a href="https://solved.ac/minixzip/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minizxip" alt="Solved.ac Profile">
+  </a>
+  &emsp;&emsp;&emsp;&emsp; <!-- 간격 조절 -->
+  <a href="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm">
+    <img src="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm" alt="Codeforces Profile">
+  </a>
+</p>
 
-<p align="top|right">
+<br/>
+
+<p align="center">
     <a href="https://github.com/minixzip">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minixzip&layout=compact&theme=maroongold" />
   </a>
