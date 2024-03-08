@@ -3,7 +3,8 @@
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minizxip)](https://solved.ac/minixzip/)
-<img src="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm">
+&emsp;&emsp;&emsp;&emsp; 
+[![Codeforces Profile](http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm)](http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm)
 
 <p align="top|right">
     <a href="https://github.com/minixzip">
