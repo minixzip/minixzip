@@ -1,4 +1,4 @@
-### Hi there 👋
+### KIM HAEMIN 🐻
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minizxip)](https://solved.ac/minixzip/)
 
