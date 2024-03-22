@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://solved.ac/minixzip/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minizxip" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minixzip" alt="Solved.ac Profile">
   </a>
   &emsp;&emsp;&emsp;&emsp; <!-- 간격 조절 -->
   <a href="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm">
