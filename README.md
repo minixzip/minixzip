@@ -1,13 +1,5 @@
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=minixzip)](https://github.com/marshallku/gitgarden)
 
-
-<p align="center">
-  <a href="https://solved.ac/minixzip/">
-  </a>
-  &emsp;&emsp;&emsp;&emsp; <!-- 간격 조절 -->
-  <a href="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm">
-    <img src="http://mazandi.herokuapp.com/api?handle=minixzip&theme=bronze_warm" alt="Codeforces Profile">
-  </a>
-</p>
 
 <br/>
 
